@@ -1,6 +1,8 @@
+(<a href="https://ibb.co.com/72vSq7V"><img src="https://i.ibb.co.com/72vSq7V/1729455909230.jpg" alt="1729455909230" border="0" /></a>)
+
 ### Hi there 👋, my name is Monjurul Alam
 #### Web Developer
-![Web Developer](<a href="https://ibb.co.com/72vSq7V"><img src="https://i.ibb.co.com/72vSq7V/1729455909230.jpg" alt="1729455909230" border="0" /></a>)
+
 
 I graduated in Information and Communication Engineering from Pabna University of Science and Technology. I am passionate about web development and have experience with HTML, CSS, JavaScript, and frameworks like React.js, Node.js, and Next.js. I am continuously learning and striving to build innovative and user-friendly applications.
 
