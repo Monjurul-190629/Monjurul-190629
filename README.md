@@ -1,5 +1,3 @@
-(<a href="https://ibb.co.com/72vSq7V"><img src="https://i.ibb.co.com/72vSq7V/1729455909230.jpg" alt="1729455909230" border="0" /></a>)
-
 ### Hi there 👋, my name is Monjurul Alam
 #### Web Developer
 
