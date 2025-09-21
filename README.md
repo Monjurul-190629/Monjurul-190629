@@ -1,5 +1,5 @@
 Hi there, I’m Monjurul Alam,</br>
-(Software Engineer (Frontend))
+Software Engineer (Frontend)
 
 I graduated in Information and Communication Engineering from Pabna University of Science and Technology (PUST). I am passionate about web development and enjoy building modern, scalable, and user-friendly applications.
 
