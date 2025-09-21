@@ -1,14 +1,14 @@
-### Hi there 👋, my name is Monjurul Alam
-#### Web Developer
+Hi there, I’m Monjurul Alam
+Software Engineer (Frontend)
 
+I graduated in Information and Communication Engineering from Pabna University of Science and Technology (PUST). I am passionate about web development and enjoy building modern, scalable, and user-friendly applications.
 
-I graduated in Information and Communication Engineering from Pabna University of Science and Technology. I am passionate about web development and have experience with HTML, CSS, JavaScript, and frameworks like React.js, Node.js, and Next.js. I am continuously learning and striving to build innovative and user-friendly applications.
+Currently, I am working as a Software Engineer (Frontend) at Govaly Limited, Chittagong, where I develop their web applications using React.js, Next.js, and Shadcn UI. Along with coding, I also contribute to writing technical documentation and ensuring seamless user experiences.
 
-Skills: React.js/Node.js/Express.js/MongoDB/Firebase
-
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on GitHub 
-
+🔹 Skills: React.js · Next.js · Node.js · Express.js · MongoDB · Firebase
+🔹 Currently Learning: Advanced Next.js & React Native
+🔹 Collaboration: Open to contributing to innovative projects and GitHub collaborations
+🔹 Goal: To grow as a full-stack developer and build impactful digital solutions
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Monjurul-190629/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/monjurul-alam-5647272a7//)  
 
