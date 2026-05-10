@@ -1,12 +1,12 @@
 Hi there, I’m Monjurul Alam,</br>
-Software Engineer (Frontend)
+Junior Software Engineer (Frontend)
 
 I graduated in Information and Communication Engineering from Pabna University of Science and Technology (PUST). I am passionate about web development and enjoy building modern, scalable, and user-friendly applications.
 
 Currently, I am working as a Software Engineer (Frontend) at Govaly Limited, Chittagong, where I develop their web applications using React.js, Next.js, and Shadcn UI. Along with coding, I also contribute to writing technical documentation and ensuring seamless user experiences.
 
 🔹 Skills: React.js · Next.js · Node.js · Express.js · MongoDB · Firebase
-🔹 Currently Learning: Advanced Next.js & React Native
+🔹 Currently Learning: React Native
 🔹 Collaboration: Open to contributing to innovative projects and GitHub collaborations
 🔹 Goal: To grow as a full-stack developer and build impactful digital solutions
 
